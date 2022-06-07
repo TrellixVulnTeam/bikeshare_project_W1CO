@@ -1,7 +1,7 @@
 # 2016 Chicago Bikeshare EDA
 
 **Introduction**
-In this project, i perform an exploratory analysis on the Chicago 2016 bikeshare dataset ([link](https://www.kaggle.com/datasets/samratp/bikeshare-analysis)).
+In this project, I perform an exploratory analysis on the Chicago 2016 bikeshare dataset ([link](https://www.kaggle.com/datasets/samratp/bikeshare-analysis)).
 
 **Questions**
 We will start by asking questions we may want to know about the dataset. What information would we want to know in order to make smarter business decisions? Or if we are a user what might affect how we use the service.
