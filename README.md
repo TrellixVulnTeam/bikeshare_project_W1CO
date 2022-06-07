@@ -1,4 +1,4 @@
-# bikeshare_project
+# 2016 Chicago Bikeshare EDA
 
 **Introduction**
 In this project, i perform an exploratory analysis on the Chicago 2016 bikeshare dataset ([link](https://www.kaggle.com/datasets/samratp/bikeshare-analysis)).
